@@ -1,0 +1,9 @@
+.d-none {
+    display: none;
+}
+
+.d-block {
+    display: block;
+    margin-top: -15px;
+    color: red;
+}
